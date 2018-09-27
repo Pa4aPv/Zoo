@@ -5,7 +5,10 @@ public class Zoo
 		System.out.println("Welcome ro Zoo");
 		Zebra z = new Zebra();
 		Hippo h = new Hippo ();
+		Lion l = new Lion ();
+		Giraffe g = new Giraffe();
 		Penguin p = new Penguin ();
+
 	}
 
 
